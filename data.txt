@@ -1,0 +1,3 @@
+1000001,Abdelrahman Reda,194 b entag st alf maskn,01097221306,10000.000000,saving
+1000002,bedo,150sahel st,0123456789,125000.000000,checkking
+1000003,Mohamed mahmoud,150 el mazarita street,01157221306,200.000000,saving
